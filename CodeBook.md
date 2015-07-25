@@ -9,6 +9,7 @@ Activity performed by the participant. Each person performed six activities wear
 * SITTING
 * STANDING
 * LAYING
+
 ### Time body accelerometer x-axis mean
 Acceleration signal was separated into body and gravity acceleration signals. This is the mean of body acceleration x-axis signal.
 ### Time body accelerometer y-axis mean
